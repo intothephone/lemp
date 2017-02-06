@@ -7,5 +7,5 @@ Use official docker images for LEMP stack, version tags could be customized.
 
 # Steps
 1. build php-fpm image
-2. docker-compose up
+2. docker-compose start
 3. enjoy
